@@ -1,38 +1,45 @@
-<h1>🚀 Hi, I'm Abdullah! <br/><a href="https://github.com/AbdullahHusseinA">
-  
+# Hello, I'm Abdullah 👋
+
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## Objective
+
+Cloud and network engineering professional with practical experience deploying and managing cloud resources in Azure, working in Linux environments, and applying core networking concepts.
+
+## Languages and Tools
+<a href="https://azure.microsoft.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" />
+</a>
+<a href="https://www.linux.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" />
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" />
+</a>
+<a href="https://www.python.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" />
 </a>
 
-<h6>Experienced IT professional with a strong foundation in Linux system administration, network management, and technical support. Skilled in Bash scripting and system optimization, with a focus on troubleshooting and reducing downtime.
-
-Driven by a passion for leveraging technology to improve system performance, enhance security, and streamline operations. Adaptable and committed to solving challenges, I strive to continuously learn and contribute to building efficient and reliable IT solutions.
-
-Eager to support teams and organizations in delivering optimized, secure, and scalable systems.
-
-</h6>
 
 
+## Certifications
+<div>
+  <a href="https://www.credly.com/badges/8a3b0ad1-dece-4e95-960f-f35bef18d783/public_url">
+    <img src="https://img.shields.io/badge/-Network%2B-EA1D2C?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/abdullahhusseinabdi-2855/credentials/2a4a8d4462b85e51">
+    <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
+  </a>
+  <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000677453/2h3kng3xv6">
+    <img src="https://img.shields.io/badge/-Linux%20Essentials-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+  </a>
+</div>
 
-<h2>📄 Certifications </h2>
-
-<a href="https://learn.microsoft.com/en-us/users/abdullahhusseinabdi-2855/credentials/2a4a8d4462b85e51?ref=https%3A%2F%2Fgithub.com%2FAbdullahHusseinA%2FMicrosoft-Certified-Azure-Fundamentals-AZ-900-Certification">
-<img src="https://github.com/user-attachments/assets/6083439d-0f53-4b70-b9e9-295f5d61142d" alt="Microsoft Certified: Azure Fundamentals" width="150">
-</a>
+<div align="center">
 
 
 
 
-
-<!--
-**AbdullahHusseinA/AbdullahHusseinA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
